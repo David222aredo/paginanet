@@ -1,0 +1,149 @@
+body{background-color: #4642B8;padding: 10px;font-family: Arial;}
+		
+		#menu{
+			background-color: #000;
+
+		}
+
+		#menu ul{
+			list-style: none;
+			margin: 0;
+			padding: 0;
+		}
+
+		#menu ul li{
+			display: inline-block;
+		}
+
+		#menu ul li a{
+			color: white;
+			display: block;
+			padding: 20px 20px;
+			text-decoration: none;
+		}
+
+		#menu ul li a:hover{
+			background-color: #42B881;
+		}
+
+		.item-r{
+			float: right;
+		}
+
+        h1 {
+        	position: relative;
+        	top:;
+        	left:500px;
+        }
+
+		.icono {
+			position: relative;
+			top:;
+			bottom:;
+			right:;
+			left:400px;
+		}
+		.tv {
+			position: relative;
+			top:;
+			bottom:;
+			right:;
+			left:280px;
+		}
+
+		.spnn2 {
+			position: relative;
+			top:;
+			bottom:;
+			right:;
+			left:280px;
+
+		}
+
+		.directv {
+            position: relative;
+			top:;
+			bottom:;
+			right:;
+			left:280px;
+		}
+
+		.iconopagina {
+			position: relative;
+			top:65px;
+			bottom:;
+			right:;
+			left:220;
+		}
+
+		.botones {
+			position: relative;
+			top:50;
+			bottom:;
+			right:;
+			left:350px;
+		}
+
+		.iconospnn2 {
+			position: absolute;
+            top:165px;
+            left:700px;
+            right:;
+            bottom:;
+        }
+
+        .boton1 {
+        	position: absolute;
+            top:260px;
+            left:850px;
+            right:;
+            bottom:;
+        }
+
+        .spnn3 {
+         	position: absolute;
+            top:330px;
+            left:700px;
+            right:;
+            bottom:;
+        }
+        
+        .spnn3btn {
+        	position: absolute;
+            top:430px;
+            left:850px;
+            right:;
+            bottom:;
+        }
+
+        .tvspnn3 {
+       		position: relative;
+			top:;
+			bottom:;
+			right:;
+			left:280px;
+        }
+
+        .btntv {
+            position: relative;
+			top:80px;
+			bottom:;
+			right:;
+			left:310px;
+        }
+
+        .titulo {
+        	background: #A59A99;
+        	padding: 20px;
+        	text-align: center;
+        	color:#FA0F0F;
+        	font-size: 35px;
+         }
+        
+       .caja {
+       	background: #C2C2C2;
+       	position: relative;
+       	top:150px;
+       	padding: 70px;
+       	text-align: center;
+       }
